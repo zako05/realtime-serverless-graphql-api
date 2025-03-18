@@ -24,6 +24,7 @@ links:
 aws account id: 739275461682
 
 [AWS Login: Root user](https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&redirect_uri=https%3A%2F%2Feu-central-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26oauthStart%3D1742299893252%26region%3Deu-central-1%26state%3DhashArgsFromTB_eu-central-1_1fd381488db426c0&page=resolve&code_challenge=n7S4_K7vNH32IjbgMrl9xb1dRihqqKPOSOcPAr0oqFw&code_challenge_method=SHA-256&backwards_compatible=true)
+
 [AWS Login: IAM User: zako05-demo](https://d-99676d5ac1.awsapps.com/start/#/)
 
 ## Step by step setup
